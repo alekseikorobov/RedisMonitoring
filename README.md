@@ -9,7 +9,7 @@ This is project using command REDIS INFO for viewing information by:
 - Replication
 - CPU
 
-![alt](\docs\FromMain.png)
+![](/docs/FromMain.png)
 
 - using .Net Framework 4.7.2
 - update every 1 second
