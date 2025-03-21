@@ -11,5 +11,5 @@ This is project using command REDIS INFO for viewing information by:
 
 ![](/docs/FromMain.png)
 
-- using .Net Framework 4.7.2
+- using net9.0-windows
 - update every 1 second

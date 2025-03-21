@@ -40,6 +40,7 @@ namespace RedisMonitoring.Dialog
         }
         private Config config;
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public IServer Server { get; set; }
         private void connectButton_Click(object sender, EventArgs e)
         {
